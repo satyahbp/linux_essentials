@@ -1,3 +1,4 @@
+#!/bin/sh
 # installing python after downloading it from python.org
 # make sure the build essentials are installed before running this file
 

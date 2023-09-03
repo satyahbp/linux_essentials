@@ -1,3 +1,4 @@
+#!/bin/bash
 # install these things to run vbox properly
 sudo dnf install gcc
 sudo dnf install perl

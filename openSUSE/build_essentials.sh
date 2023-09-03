@@ -1,3 +1,4 @@
+#!/bin/sh
 # It's 23-Oct-2022, and if you install openSUSE Leap, it comes with Python3.6 inbuilt. But this doesn't work with the new VSCode debugger.
 # So, to make it work, we need some prior installations.
 
