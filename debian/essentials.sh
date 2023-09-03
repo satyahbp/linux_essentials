@@ -10,3 +10,5 @@ sudo apt install build-essential
 sudo apt install clang
 sudo apt install libssl-dev libcurl4-openssl-dev
 sudo apt install transmission
+sudo apt install net-tools
+sudo apt install htop
