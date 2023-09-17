@@ -13,3 +13,4 @@ sudo apt install libssl-dev libcurl4-openssl-dev
 sudo apt install transmission
 sudo apt install net-tools
 sudo apt install htop
+sudo apt install traceroute
