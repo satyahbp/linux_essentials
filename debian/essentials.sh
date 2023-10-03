@@ -14,3 +14,4 @@ sudo apt install transmission
 sudo apt install net-tools
 sudo apt install htop
 sudo apt install traceroute
+sudo apt install vim
